@@ -79,8 +79,8 @@ I value working efficiently and strive to deliver services that are safe, secure
 [![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>-->
-
----
+<br>
+<br>
 Thanks for stopping by!
 <br>
 <picture>
