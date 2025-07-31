@@ -35,7 +35,6 @@ I value working efficiently and strive to deliver services that are safe, secure
 <img src="https://img.shields.io/badge/Geolocation_API-0A0A0A?style=flat&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=white" />
 <img src="https://img.shields.io/badge/sunabar_API-FF6600?style=flat&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/LINE_Bot-00C300?style=flat&logo=line&logoColor=white" />
 <img src="https://img.shields.io/badge/Webhook-0A0A0A?style=flat&logo=webhooks&logoColor=white" />
@@ -47,16 +46,17 @@ I value working efficiently and strive to deliver services that are safe, secure
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoftedge&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Firefly-FF0000?style=flat&logo=adobe&logoColor=white" />
 <img src="https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
-
+<!--<p align="center">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoftedge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>-->
 <br>
 
 ## 📊 GitHub Stats
@@ -72,6 +72,7 @@ I value working efficiently and strive to deliver services that are safe, secure
 </p>
 
 <!--<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>-->
