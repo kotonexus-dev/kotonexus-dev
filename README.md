@@ -84,7 +84,7 @@ I value working efficiently and strive to deliver services that are safe, secure
 Thanks for stopping by!
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kotone-dev/kotone-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kotone-dev/kotone-dev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kotone-dev/kotone-dev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake.svg">
 </picture>
