@@ -82,3 +82,9 @@ I value working efficiently and strive to deliver services that are safe, secure
 
 ---
 Thanks for stopping by!
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+</picture>
