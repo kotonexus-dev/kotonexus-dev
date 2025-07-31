@@ -15,6 +15,9 @@ I value working efficiently and strive to deliver services that are safe, secure
 <br>
 
 ## 🪩 Things I code with
+<!--<p align="center">
+![](https://skillicons.dev/icons?i=js,typescript,python,html,css,react,nextjs,remix,nodejs,express,prisma,fastapi,mysql,postgresql,docker,firebase,tailwind,postman)
+</p>-->
 <p align="left">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
