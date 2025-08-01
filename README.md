@@ -1,6 +1,6 @@
 <br><br>
 <p align="center">
-  <img src="/name-1.png" alt="圖片說明" width="600" />
+  <img src="/name-1.png" alt="name-1" width="600" />
 </p>
 
 <br>
@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=30&color=0098D8&center=true&width=600&lines=Hi+I'm+Kotone;Fullstack+Developer;Exploring+AWS+%26+GCP;Loves+TypeScript+%26+Python" alt="Typing SVG" />
 </p>
+<br>
 
 ### ✨ Hello ✨
 I'm a developer passionate about building projects that connect people and ideas, aiming to write thoughtful and user-friendly code.  
