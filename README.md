@@ -16,7 +16,9 @@ I enjoy exploring new tech stacks and continuously expanding my knowledge and ex
 
 I'm currently building with **TypeScript**, **Next.js**, **Python**, **FastAPI**, **Go**, **AWS**, and **GCP**.  
 I value working efficiently and strive to deliver services that are safe, secure, and dependable.
-<br><br>
+
+🌐 [My Portfolio Website](https://www.kotonexus-dev.com)
+<br>
 <p align="center">
   <img src="./github-video.gif" alt="GitHub Profile" width="600" />
 </p>
