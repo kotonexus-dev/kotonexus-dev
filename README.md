@@ -17,8 +17,10 @@ I enjoy exploring new tech stacks and continuously expanding my knowledge and ex
 I'm currently building with **TypeScript**, **Next.js**, **Python**, **FastAPI**, **Go**, **AWS**, and **GCP**.  
 I value working efficiently and strive to deliver services that are safe, secure, and dependable.
 
-🌐 [My Portfolio Website](https://www.kotonexus-dev.com)
 <br>
+🌐 [My Portfolio Website](https://www.kotonexus-dev.com) – Check out my portfolio site!
+<br>
+
 <p align="center">
   <img src="./github-video.gif" alt="GitHub Profile" width="600" />
 </p>
@@ -82,13 +84,9 @@ I value working efficiently and strive to deliver services that are safe, secure
   <img src="https://streak-stats.demolab.com?user=kotonexus-dev&layout=compact&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotonexus-dev&layout=compact&theme=dark&border_radius=10" alt="Profile Details" />
+
+　[![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=dark)](https://github.com/kotonexus-dev/github-profile-trophy)
 </p>
-
-<!--<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-  <img src="https://raw.githubusercontent.com/kotonexus-dev/kotonexus-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>-->
 <br>
 <br>
 Thanks for stopping by!
