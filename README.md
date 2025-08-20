@@ -18,7 +18,7 @@ I'm currently building with **TypeScript**, **Next.js**, **Python**, **FastAPI**
 I value working efficiently and strive to deliver services that are safe, secure, and dependable.
 
 <br>
-🌐 [My Portfolio Website](https://www.kotonexus-dev.com) – Check out my portfolio site!
+🌐 [Check out My Portfolio Website!](https://www.kotonexus-dev.com)
 <br>
 
 <p align="center">
