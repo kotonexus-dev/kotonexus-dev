@@ -85,7 +85,7 @@ I value working efficiently and strive to deliver services that are safe, secure
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotonexus-dev&layout=compact&theme=dark&border_radius=10" alt="Profile Details" />
 
-　[![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=dark)](https://github.com/kotonexus-dev/github-profile-trophy)
+　[![trophy](https://github-profile-trophy.vercel.app/?username=kotonexus-dev&theme=darkhub)](https://github.com/kotonexus-dev/github-profile-trophy)
 </p>
 <br>
 <br>
